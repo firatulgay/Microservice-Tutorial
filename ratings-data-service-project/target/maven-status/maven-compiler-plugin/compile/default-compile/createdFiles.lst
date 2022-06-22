@@ -1,0 +1,4 @@
+ratingsdataserviceproject\model\Rating.class
+ratingsdataserviceproject\model\UserRating.class
+ratingsdataserviceproject\RatingsDataServiceApplication.class
+ratingsdataserviceproject\resources\RatingsResource.class
